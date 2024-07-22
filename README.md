@@ -1,12 +1,12 @@
 # HR-Analysis
 
 KPI:
--Total employees – 1470
--Attrition Count – 237
--Attrition Rate – 16.1%
--Avg Salary -6.5 K
--Avg Years – 7
--Avg Age - 37
+*Total employees – 1470
+*Attrition Count – 237
+*Attrition Rate – 16.1%
+*Avg Salary -6.5 K
+*Avg Years – 7
+*Avg Age - 37
 
 Insights
 -Attrition by Job Role and Job Satisfaction - 62 (Laboratory Technician), 57 (sales executive), 47 (Research Scientist)
