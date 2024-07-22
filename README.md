@@ -1,15 +1,17 @@
 # HR-Analysis
 
-Attrition by Job Role: Break down attrition rates by job role or business unit to identify areas with higher turnover rates. This insight can help pinpoint specific areas for intervention and improvement.
+KPI:
+-Total employees – 1470
+-Attrition Count – 237
+-Attrition Rate – 16.1%
+-Avg Salary -6.5 K
+-Avg Years – 7
+-Avg Age - 37
 
-Tenure Analysis: Examine the distribution of employee tenure at the time of departure to identify any patterns or trends.
-
-Education Field Analysis: Analyze the reasons for employee departures, on the basis of educational filed like technical degree, life science, marketing, medical. For example, you might discover an employee with different skill set/interest performing a job role which doesn’t suits employee’s interest. 
-
-Monthly Rate: Assess the relationship between employee performance monthly rate to examine the reason for employee departures. Identify whether there is a correlation between employee performance and monthly rates.
-
-Job Role Satisfaction: Analyze the reasons for employee departures, on the basis of their job role satisfaction. This insight can help pinpoint specific areas for intervention and improvement.
-
-Demographic Analysis: Explore attrition rates by demographic factors such as age, gender, and job level. This analysis can reveal any disparities or trends that may require attention, such as higher turnover rates among certain demographic groups.
-
-By providing these insights, HR professionals and organizational leaders can gain a deeper understanding of attrition trends, identify root causes, and take proactive measures to retain top talent and improve employee retention.
+Insights
+-Attrition by Job Role and Job Satisfaction - 62 (Laboratory Technician), 57 (sales executive), 47 (Research Scientist)
+-Attrition by Tenure– (59) Employees leaving company after 1 year is highest, followed by (27) leaving after 2 years and 21 leaving after 5 years.
+-Attrition by education – (37.6%) Life Science, (26.6%) Medical, (14.8%) Marketing
+-Attrition by Monthly Rate – 53 employees left having monthly rate (10K-15K), 48 employees left having monthly rate (20K-25K), 44 employees left having monthly rate (15K-20K), 42 employees left having monthly rate (5K-10K)
+-Attrition by Gender – Male (150) and Female (87)
+-Attrition by Age – 77 left company (age 36-40), 62 left company (age 25-30), 60 left company (age 31-35)
